@@ -10,7 +10,7 @@ Modules:
 - Excitation path 
   - galvo mirrors
   - tube lens/scan lens
-  - Shutter
+  - [Shutter](https://github.com/Open-2-Photon-Microscope/Openshutter)
 - perfusion system
 - DAQ
 - Camera module (observing samples)
