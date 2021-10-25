@@ -5,7 +5,7 @@ This repo is a summary of the Open 2 Photon Microscope project. Use this to lear
 Modules:
 
 
-- substage(part of collection but treated as independent)
+- [substage](https://github.com/Open-2-Photon-Microscope/substage)(part of collection but treated as independent)
 - collection path (Currently under development)
 - Excitation path 
   - galvo mirrors
